@@ -1,5 +1,4 @@
-const
-App = () => {
+const App = () => {
     return (
         <div>
             App
@@ -7,4 +6,4 @@ App = () => {
     );
 };
 
-export default {App};
+export default App;
