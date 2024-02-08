@@ -7,7 +7,6 @@ const Launch = ({launch}) => {
             <div className={`${styles.details} ${styles.flex} ${styles.bordered}`}>
                 <div>mission_name:{mission_name}</div>
                 <div>launch_year:{launch_year}</div>
-                <div>mission_patch_small:</div>
             </div>
         </div>
     )
