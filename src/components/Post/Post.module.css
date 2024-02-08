@@ -1,0 +1,9 @@
+.postContainer{
+    border: blueviolet solid 1px;
+    padding: 10px;
+    width: 40vw;
+}
+.detailContainer{
+    display: flex;
+    gap: 10px;
+}

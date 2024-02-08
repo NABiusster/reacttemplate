@@ -1,0 +1,7 @@
+.container{
+    border: blue solid 1px;
+    padding: 5px 10px;
+    width: 90vw;
+    margin: 10px auto;
+    display: flex;
+}
