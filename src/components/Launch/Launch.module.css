@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+}
+.details{
+    flex-direction: column;
+    justify-content: center;
+}
+.bordered{
+    padding: 20px;
+    border: blue solid 1px;
+}
+img{
+    width: 150px;
+}
