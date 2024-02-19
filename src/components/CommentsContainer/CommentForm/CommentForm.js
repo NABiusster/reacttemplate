@@ -14,7 +14,7 @@ const CommentForm = ({setComment}) => {
             errors
         }
     } = useForm({
-        mode:"All",
+        mode:"all",
         resolver:joiResolver(commentValidator)
     })
     let postComment  = async (comment)=> {
