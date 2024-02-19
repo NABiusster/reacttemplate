@@ -1,0 +1,6 @@
+.Container{
+    display: flex;
+    border: blueviolet solid 1px;
+    margin: 5px;
+    padding: 5px;
+}
